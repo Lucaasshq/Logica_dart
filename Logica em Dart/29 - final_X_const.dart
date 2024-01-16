@@ -7,4 +7,8 @@ void main() {
   final DateTime agora = DateTime.now();
   //? finaly é util declarar quando n se saber o valor da var
   //? até que o codigo seja rodado
+  print(nome);
+  print(idade);
+  print(lista);
+  print(agora);//! Apenas para parar de dar erro
 }
